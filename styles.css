@@ -102,6 +102,13 @@ h2 {
 }
 
 #galeria {
+    #galeria img {
+        width: 300px; /* ou o tamanho que quiser */
+        height: 200px; 
+        object-fit: cover; /* garante que a imagem preencha o espaço */
+        border-radius: 10px; /* opcional, só pra dar um visual mais bonito */
+    }
+    
     background-color: #FAF4F4;
 
 }
