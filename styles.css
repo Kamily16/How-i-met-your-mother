@@ -48,6 +48,9 @@ section {
     height: auto;
 }
 
+    .logo1 {
+        margin-left: 2rem;
+    }
 
 .esquerda-conteudo {
     display: flex;
