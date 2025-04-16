@@ -48,10 +48,6 @@ section {
     height: auto;
 }
 
-    .logo1 {
-        margin-left: 2rem;
-    }
-
 .esquerda-conteudo {
     display: flex;
     flex-direction: column;
