@@ -26,8 +26,8 @@ section {
 }
 
 .texto-azul-sombra {
-    color: #6382ae;
-    text-shadow: -3px 3px #3b4c66; /* tom mais escuro do azul */
+    color: #6382ae; /* cor do texto */
+    text-shadow: -3px 3px #3b4c66; /* sombra com tom mais escuro do azul */
 }
 
 .inicio-fundo {
