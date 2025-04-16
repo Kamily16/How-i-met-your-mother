@@ -24,6 +24,10 @@ section {
     color: #CB6D43;
     font-weight: 600;
 }
+.logo1 {
+    margin-left: 2rem; /* ajusta conforme o quanto você quer mover */
+    height: 60px; /* se quiser definir um tamanho padrão */
+}
 
 .inicio-fundo {
     /* aula 3 */
